@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingManagerAPI", "ParkingManagerAPI\ParkingManagerAPI.csproj", "{A3B971B8-7D7F-4718-AD18-399E2AA08FD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingManagerApi", "ParkingManagerApi.csproj", "{6A546748-0EAC-45A8-AA27-1F21B6E2C37C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A3B971B8-7D7F-4718-AD18-399E2AA08FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3B971B8-7D7F-4718-AD18-399E2AA08FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3B971B8-7D7F-4718-AD18-399E2AA08FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3B971B8-7D7F-4718-AD18-399E2AA08FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A546748-0EAC-45A8-AA27-1F21B6E2C37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A546748-0EAC-45A8-AA27-1F21B6E2C37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A546748-0EAC-45A8-AA27-1F21B6E2C37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A546748-0EAC-45A8-AA27-1F21B6E2C37C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7BFB83E2-000D-49FA-BEFE-5FBF250C6431}
+		SolutionGuid = {FD67885E-084C-492C-B9E5-3FB28707929D}
 	EndGlobalSection
 EndGlobal
